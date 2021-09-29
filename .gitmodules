@@ -1,0 +1,3 @@
+[submodule "message-detection/niwl"]
+	path = message-detection/niwl
+	url = https://git.openprivacy.ca/openprivacy/niwl
